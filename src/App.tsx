@@ -1,5 +1,4 @@
 import { ApolloProvider } from '@apollo/client'
-import { Event } from "./pages/Event"
 import { client } from './lib/apollo'
 import { Router } from './Router'
 import { BrowserRouter } from 'react-router-dom'
